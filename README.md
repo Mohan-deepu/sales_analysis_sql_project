@@ -13,7 +13,8 @@ This project focuses on analyzing retail sales data using SQL queries to gain in
 - ## Table creation: Creating  a table named retail_sales having the columns transactions_id,sale_date,sale_time,customer_id,gender,age,category,quantiy,groupby,cogs,total_sale
 
 '''sql
-create database sale_db;
+
+  create database sale_db;
 
 create table  retail_sales
 (
